@@ -4,7 +4,7 @@ a = 5; b = 7 -> max = 7
 a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3 */
 
-int a,b;
+int a, b;
 Console.Write($"Введите первое число: ");
 int.TryParse(Console.ReadLine()!, out a);
 Console.Write($"Введите второе число: ");
@@ -14,7 +14,7 @@ if (a > b)
 {
     Console.Write($" {a} ");
 }
-else 
+else
 {
     Console.Write($"{b}");
 }
