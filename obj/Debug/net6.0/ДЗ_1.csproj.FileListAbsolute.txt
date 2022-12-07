@@ -1,0 +1,15 @@
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\bin\Debug\net6.0\ДЗ_1.exe
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\bin\Debug\net6.0\ДЗ_1.deps.json
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\bin\Debug\net6.0\ДЗ_1.runtimeconfig.json
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\bin\Debug\net6.0\ДЗ_1.dll
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\bin\Debug\net6.0\ДЗ_1.pdb
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\obj\Debug\net6.0\ДЗ_1.csproj.AssemblyReference.cache
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\obj\Debug\net6.0\ДЗ_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\obj\Debug\net6.0\ДЗ_1.AssemblyInfoInputs.cache
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\obj\Debug\net6.0\ДЗ_1.AssemblyInfo.cs
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\obj\Debug\net6.0\ДЗ_1.csproj.CoreCompileInputs.cache
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\obj\Debug\net6.0\ДЗ_1.dll
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\obj\Debug\net6.0\refint\ДЗ_1.dll
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\obj\Debug\net6.0\ДЗ_1.pdb
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\obj\Debug\net6.0\ДЗ_1.genruntimeconfig.cache
+C:\Users\qip88\OneDrive\Рабочий стол\ДЗ_1\obj\Debug\net6.0\ref\ДЗ_1.dll
